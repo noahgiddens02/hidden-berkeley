@@ -17,8 +17,8 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+The goal of this project is to compile the purpose and sources for services at UC Berkeley. Through this website, one should be able to quickly find what resources they need and the different resources offered to students broadly. The list displayed does not contain all services offered by UC Berkeley and additional research may be required.
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+https://noahgiddens02.github.io/hidden-berkeley/ What has been added was a small modification to the webpage title, improved D-Lab location, the addition of the Labor Center, and a check to ensure the site is running correctly. The values on the website match the CSV located here along with working links.
